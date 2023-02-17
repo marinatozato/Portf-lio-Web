@@ -1,0 +1,22 @@
+.titulo_conf {
+    font-family: fantasy;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+    text-align: left;
+}
+
+li {
+    line-height: 2;
+
+}
+
+.header {
+    margin: auto;
+    text-align: left;
+    background-color: #FFDDD2;
+    padding-right: 2;
+}
